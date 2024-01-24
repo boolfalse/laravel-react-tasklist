@@ -1,4 +1,5 @@
 {
+    "name": "laravel-vite-react",
     "private": true,
     "type": "module",
     "scripts": {
