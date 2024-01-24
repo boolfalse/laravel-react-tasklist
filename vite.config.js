@@ -18,7 +18,4 @@ export default defineConfig({
         }),
         react(),
     ],
-    server: {
-        port: parseInt(process.env.VITE_SERVER_PORT),
-    },
 });
